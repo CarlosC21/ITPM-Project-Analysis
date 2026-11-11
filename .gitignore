@@ -1,0 +1,16 @@
+# Data 
+*.xlsx
+*.xlsm
+*.xls
+backups/
+data_local/
+
+# Python 
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and local settings 
+.env
+CLAUDE.local.md
